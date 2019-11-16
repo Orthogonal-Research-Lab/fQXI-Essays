@@ -1,7 +1,7 @@
 ## Establishing the Phenomenological Conditions of Intention-like Goal-oriented Behavior
-Bradly Alicea<sup>1,2</sup>
-(with conversational input from Robert Stone and Dr. Richard Gordon)
-<sup>1</sup> Orthogonal Research, Champaign, IL, USA, <sup>2</sup> OpenWorm Foundation
+Bradly Alicea<sup>1,2</sup>  
+(with conversational input from Robert Stone and Dr. Richard Gordon)  
+<sup>1</sup> Orthogonal Research, Champaign, IL, USA, <sup>2</sup> OpenWorm Foundation  
 [bradly.alicea@outlook.com](mailto:bradly.alicea@outlook.com)
 
 __Abstract.__ To understand how physical and living systems wander towards a goal, we must first admit that mathematical laws describing such entities cannot imposed in a top-down manner, but rather emerge from physical and energetic constraints. This can lead to goal-directed behavior in systems that have no brain. In fact, there is an entire class of systems that exhibit "brainless" or “aneural” cognition, which produce autonomous and even intentional behaviors. Yet even then, the intention-like behavior of a system does not emerge in a brute force fashion. Rather, the generation of quasi-intelligent behavior results from a set of processes involving function, structure, and emergent dynamics. To understand how statistical regularities become mathematical laws, we can turn to both a statistical mechanics-inspired discrete model of combinatorial representations and the Ashby's Law of Requisite Variety. Taken together, these systemic features provide a means to understand how mathematical laws become discoverable, and how systems generate features captured using a formal mathematical language.
