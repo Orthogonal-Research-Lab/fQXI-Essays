@@ -26,8 +26,8 @@ We often use physical analogues to address complex biological and social problem
 
 Questions that result from these issues:  
 
-* how can we represent such problems both mathematically and computationally?  
+* how can we represent such problems both mathematically and computationally? Is there a type of logical framework that might supercede conventional mathematics in these cases?
 
 * do we need a new model for computation (continuous, stochastic)?  
 
-* is there a connection to the ability to replicate experiments?  
+* is there a connection with the ability to replicate experiments? In the case of experiments that are found not to replicate, is there a methodological problem, or is it a matter of not using the proper representation (what are key variables, or what is key mode of inquiry)? 
