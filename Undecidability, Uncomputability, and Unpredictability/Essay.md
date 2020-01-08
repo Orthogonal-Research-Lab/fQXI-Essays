@@ -1,13 +1,18 @@
-## Title: a variation on "Elusive Answers to Poorly-represented Problems"
-fQXI essay (outline):  
-  
+## Title: 
+     "Elusive Answers to Poorly-represented Problems", "Mathematical Effectiveness is Physical Salience", ?????
+
+     fQXI essay contest ["Undecidability, Uncomputability, and Unpredictability"](https://fqxi.org/community/essay/rules) 
+     
+### Introduction  
 Bradly Alicea's Github repo tagline: "A little bit of many things, but mostly the things that cannot be easily coded"
 
 * generalist with a range of unruly interests.
 
-* "unruly" meaning hard-to-represent with mathematics (and sometimes with words!). But not qualitative or structureless!
+* "unruly" meaning hard to represent with mathematics (and sometimes with words!). But not qualitative or structureless!
 
-* "Unreasonable Effectiveness of Mathematics" ---> "Elusive Answers to Poorly-represented Problems"?
+* "Unreasonable Effectiveness of Mathematics" ---> an alternative to this would be "Elusive Answers to Poorly-represented Problems"?
+
+### What makes a problem hard-to-represent?
 
 1) difficult to quantify.
 
