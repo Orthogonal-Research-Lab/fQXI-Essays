@@ -1,7 +1,7 @@
 ## Title: TBA
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Elusive Answers to Poorly-represented Problems", "Mathematical Effectiveness is Physical Salience", ?????
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fQXI essay contest ["Undecidability, Uncomputability, and Unpredictability"](https://fqxi.org/community/essay/rules) 
+>>>>> "Elusive Answers to Poorly-represented Problems", "Mathematical Effectiveness is Physical Salience", ?????
+>>>>> fQXI essay contest ["Undecidability, Uncomputability, and Unpredictability"](https://fqxi.org/community/essay/rules) 
      
 ### Introduction  
 Bradly Alicea's Github repo tagline: "A little bit of many things, but mostly the things that cannot be easily coded"
