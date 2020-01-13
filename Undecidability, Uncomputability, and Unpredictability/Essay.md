@@ -5,13 +5,15 @@
      
 
 ### Introduction  
-Bradly Alicea's Github repo tagline: "A little bit of many things, but mostly the things that cannot be easily coded"
+Bradly Alicea's Github repo tagline: "A little bit of many things, but mostly the things that cannot be easily coded".  
 
-* generalist with a range of unruly interests.
+* generalist with a range of unruly interests. This is of course a subjective take. 
 
-* "unruly" meaning hard to represent with mathematics (and sometimes with words!). But not qualitative or structureless!
+* "unruly" meaning hard to represent with mathematics (and sometimes with words!). But not qualitative or structureless!  
 
-* "Unreasonable Effectiveness of Mathematics" ---> an alternative to this would be "Elusive Answers to Poorly-represented Problems"?
+* "Unreasonable Effectiveness of Mathematics" ---> an alternative to this would be "Elusive Answers to Poorly-represented Problems"?  
+
+Some problems are hard to represent. Examples include systems with a large number of variable or high degrees of nonlinearity relative to methods such as experimental design or measurement of nearest-neighbor interactions.   
 
 
 ### What makes a problem hard-to-represent?
