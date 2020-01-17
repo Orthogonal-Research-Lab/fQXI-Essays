@@ -5,15 +5,15 @@
      
 
 ### Introduction  
-Bradly Alicea's Github repo tagline: "A little bit of many things, but mostly the things that cannot be easily coded".  
+<P>
+     <CENTER>
+          "<i>A little bit of many things, but mostly the things that cannot be easily coded</i>" 
+      </CENTER> 
+</P>
+     
+This quote is taken from the description for Bradly Alicea's Github repository. At first look, this might be the perfect description of a generalist with a range of unruly interests. This is of course a subjective take, but does bring up a conceptual point. Unruliness can be used as a way to describe what we cannot formalize. Unruly problems are messy, but can also include so-called wicked problems. Such problems are hard to represent with mathematics and sometimes even with words. However, they are not inherently qualitative or structureless!  As Weiner once proposed that mathematics is unreasonable effective, so we might also propose that poorly-represented problems have elusive answers.  
 
-* generalist with a range of unruly interests. This is of course a subjective take. 
-
-* "unruly" meaning hard to represent with mathematics (and sometimes with words!). But not qualitative or structureless!  
-
-* "Unreasonable Effectiveness of Mathematics" ---> an alternative to this would be "Elusive Answers to Poorly-represented Problems"?  
-
-Some problems are hard to represent. Examples include systems with a large number of variable or high degrees of nonlinearity relative to methods such as experimental design or measurement of nearest-neighbor interactions.   
+These types of problems are hard to represent, but not always for the lack of mathematical tools. Examples include systems with a large number of variable or high degrees of nonlinearity relative to methods such as experimental design or measurement of nearest-neighbor interactions. Inverse problems of highly-interacting systems such as swarm intelligence can also be classified in this way. While solutions can be proposed, this essay focuses on the need for a new paradigm for solving such problems.
 
 
 ### What makes a problem hard-to-represent?
@@ -30,7 +30,7 @@ As numbers and operators are symbols, it is worth asking whether some systems ar
 
 3) un-physical problems (no physical analogue).  
 
-We often use physical analogues to address complex biological and social problems (the "velocity" of spent money, "jet engines" to propel diatoms through water, "gas" models of social interactions). But how physical are these systems, and do analogues provide insight? In cases such as Psychophysics, there is an interaction with physical processes. It may also be that such metaphors rest on problems and systems that are easy to quantify and symbolize.  
+We often use physical analogues to address complex biological and social problems (the "velocity" of spent money, "jet engines" to propel organisms through water or air, "gas" models of social interactions). But how physical are these systems, and do analogues provide insight? In cases such as Psychophysics, there is an interaction with physical processes. It may also be that such metaphors rest on problems and systems that are easy to quantify and symbolize.  
 
 
 ### Questions that result from these issues:  
