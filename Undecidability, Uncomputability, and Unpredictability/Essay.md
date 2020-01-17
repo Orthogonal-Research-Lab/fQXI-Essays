@@ -5,11 +5,9 @@
      
 
 ### Introduction  
-<P>
-     <CENTER>
+<p style="text-align: center;">
           "<i>A little bit of many things, but mostly the things that cannot be easily coded</i>" 
-      </CENTER> 
-</P>
+</p>
      
 This quote is taken from the description for Bradly Alicea's Github repository. At first look, this might be the perfect description of a generalist with a range of unruly interests. This is of course a subjective take, but does bring up a conceptual point. Unruliness can be used as a way to describe what we cannot formalize. Unruly problems are messy, but can also include so-called wicked problems. Such problems are hard to represent with mathematics and sometimes even with words. However, they are not inherently qualitative or structureless!  As Weiner once proposed that mathematics is unreasonable effective, so we might also propose that poorly-represented problems have elusive answers.  
 
@@ -32,11 +30,13 @@ As numbers and operators are symbols, it is worth asking whether some systems ar
 
 We often use physical analogues to address complex biological and social problems (the "velocity" of spent money, "jet engines" to propel organisms through water or air, "gas" models of social interactions). But how physical are these systems, and do analogues provide insight? In cases such as Psychophysics, there is an interaction with physical processes. It may also be that such metaphors rest on problems and systems that are easy to quantify and symbolize.  
 
-
-### Questions that result from these issues:  
+### Questions that result from these issues  
 
 * how can we represent such problems both mathematically and computationally? Is there a type of logical framework that might supercede conventional mathematics in these cases?
 
 * do we need a new model for computation (continuous, stochastic)?  
 
 * is there a connection with the ability to replicate experiments? In the case of experiments that are found not to replicate, is there a methodological problem, or is it a matter of not using the proper representation (what are key variables, or what is key mode of inquiry)? 
+
+### A new paradigm: physical cognition  
+We propose a geometric and relational system for representing such problems. 
