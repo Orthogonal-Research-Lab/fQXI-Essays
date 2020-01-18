@@ -35,3 +35,10 @@ Is there a connection with the ability to replicate experiments? In the case of 
 
 ### A new paradigm: physical cognition  
 We propose a geometric and relational system for representing such problems. A structural approach involves using geometric shapes as an invariant foundatin for everything else in a system. 
+
+### References
+[1]
+
+[2]
+
+[3]
