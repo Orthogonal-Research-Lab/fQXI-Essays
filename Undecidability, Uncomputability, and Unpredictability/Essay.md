@@ -35,7 +35,7 @@ Is there a connection with the ability to replicate experiments? In the case of 
 
 ### Is a paradigm for measurement and computation the answer? 
 >>>>> A new paradigm: physical cognition . We propose a geometric and relational system for representing such problems. A structural approach involves using geometric shapes as an invariant foundation for everything else in a system. 
-Given this discussion, we might ask why 
+Given this discussion, we might ask whether a new paradigm is needed. 
 
 ### References
 [1]
