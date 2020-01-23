@@ -33,8 +33,9 @@ Do we need a new model for computation (continuous, stochastic)?
 
 Is there a connection with the ability to replicate experiments? In the case of experiments that are found not to replicate, is there a methodological problem, or is it a matter of not using the proper representation (what are key variables, or what is key mode of inquiry)? 
 
-### A new paradigm: physical cognition  
-We propose a geometric and relational system for representing such problems. A structural approach involves using geometric shapes as an invariant foundation for everything else in a system. 
+### Is a paradigm for measurement and computation the answer? 
+>>>>> A new paradigm: physical cognition . We propose a geometric and relational system for representing such problems. A structural approach involves using geometric shapes as an invariant foundation for everything else in a system. 
+Given this discussion, we might ask why 
 
 ### References
 [1]
