@@ -48,12 +48,15 @@ An outline of four potential approaches are as follows:
 3) geometric generativity and isometric networks.
      The construction of nested and overlapping shapes, in addition to isometric networks, can be used to represent sets of relationships that possess non-transitive properties, recursivity, and co-varying higher dimensionality. 
      
-Isometric networks consist of a series of interconnected isometric shapes. Isometric geometries have been used in art and video game design. Isometric networks are drawn in 2-dimensions, but due to their orientation, project 3-dimensions of information. moreover, due to this projection, the second and third dimensions are entangled, leading to shared variance amongst these two dimensions.
+We will discuss isometric networks first. Isometric networks consist of a series of interconnected isometric shapes. Isometric geometries have been used in art and video game design. Isometric networks are drawn in 2-dimensions, but due to their orientation, project 3-dimensions of information. moreover, due to this projection, the second and third dimensions are entangled, leading to shared variance amongst both dimensions.
+
+While isometric networks can represent transitive relationships, we can configure such networks (and particularly their growth) in such a way so as to introduce nontransitive elements. Nested and overlapping shapes drawn as a generative landscape might be a way to introduce such properties. Much as injecting stochasticity into boolean models make them more lifelike, so can injecting generativity into simple geometric systems gets us closer to what Douglas Hofstadter refers to as a strange loop. 
      
 
 4) fuzzy multidimensionality.
 
 5) associative methods.
+While traditional statistical methods allow us to discover associations, we might want to discover free associations that are harder to define in terms of a feature space.  
 
 ### References
 [1]
