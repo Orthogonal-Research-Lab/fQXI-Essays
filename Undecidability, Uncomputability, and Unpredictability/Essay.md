@@ -48,7 +48,7 @@ An outline of four potential approaches are as follows:
 3) geometric generativity and isometric networks.
      The construction of nested and overlapping shapes, in addition to isometric networks, can be used to represent sets of relationships that possess non-transitive properties, recursivity, and co-varying higher dimensionality. 
      
-Isometric networks consist of a series of interconnected isometric shapes. Isometric geometries have been used in art and video game design.
+Isometric networks consist of a series of interconnected isometric shapes. Isometric geometries have been used in art and video game design. Isometric networks are drawn in 2-dimensions, but due to their orientation, project 3-dimensions of information. moreover, due to this projection, the second and third dimensions are entangled, leading to shared variance amongst these two dimensions.
      
 
 4) fuzzy multidimensionality.
