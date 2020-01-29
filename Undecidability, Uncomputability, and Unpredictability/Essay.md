@@ -42,8 +42,6 @@ An outline of four potential approaches are as follows:
 While continuous approximation has become increasing easier with advances in computing technology, this requires an ability to capture the phenomenon of interest using methods that make such systems quantifiable. To bridge this conceptual gap, we can map such systems onto fluids, biological collectives, and soft materials. While these mappings are quasi-quantitative, our mathematical understanding of such systems are a bit more tractable than the alternative.
 
 
-
-
 2) the prediction of intervals that allow us to find patterns in stochastic sequences.
 Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing. Interval and difference computing requires us to define these features in the system of interest. 
 
@@ -56,10 +54,8 @@ We will discuss isometric networks first. Isometric networks consist of a series
 While isometric networks can represent transitive relationships, we can configure such networks (and particularly their growth) in such a way so as to introduce nontransitive elements. Nested and overlapping shapes drawn as a generative landscape might be a way to introduce such properties. Much as injecting stochasticity into boolean models make them more lifelike, so can injecting generativity into simple geometric systems gets us closer to what Douglas Hofstadter refers to as a strange loop. 
      
 
-4) fuzzy multidimensionality.
-
-5) associative methods.
-While traditional statistical methods allow us to discover associations, we might want to discover free associations that are harder to define in terms of a feature space.  
+4) fuzzy multidimensionality and associative methods.
+While traditional statistical methods allow us to discover associations, we might want to discover free associations that are harder to define in terms of a feature space. This is where we can use fuzzy logic in multidimensional space to help us create intervals which can also be used to facilitate interval and difference computing.
 
 ### References
 [1]
