@@ -45,7 +45,7 @@ While continuous approximation has become increasing easier with advances in com
 
 
 2) the prediction of intervals that allow us to find patterns in stochastic sequences.
-Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing. Interval and difference computing requires one to define major 
+Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing. Interval and difference computing requires us to define these features in the system of interest. 
 
 
 3) geometric generativity and isometric networks.
