@@ -34,19 +34,22 @@ Do we need a new model for computation (continuous, stochastic)?
 Is there a connection with the ability to replicate experiments? In the case of experiments that are found not to replicate, is there a methodological problem, or is it a matter of not using the proper representation (what are key variables, or what is key mode of inquiry)? 
 
 ### Is a paradigm for measurement and computation the answer? 
->>>>> A new paradigm: physical cognition . Given this discussion, we might ask whether a new paradigm is needed. Indeed, while a new computational and quantitative paradigm may be hard to reconcile with traditional mathematics and computer science, it may help us overcome some of the limitations of tradition.
+>>>>> A new paradigm: physical cognition. Given this discussion, we might ask whether a new paradigm is needed. Indeed, while a new computational and quantitative paradigm may be hard to reconcile with traditional mathematics and computer science, it may help us overcome some of the limitations of tradition.
 
 An outline of four potential approaches are as follows:
 
-1) continuous methods that use the behavior of fluids or soft materials as inspiration.
+1) continuous methods that use the behavior of fluids, biological collectives, or soft materials as inspiration.
+While continuous approximation has become increasing easier with advances in computing technology, this requires an ability to capture the phenomenon of interest using methods that make such systems quantifiable. To bridge this conceptual gap, we can map such systems onto fluids, biological collectives, and soft materials. While these mappings are quasi-quantitative, our mathematical understanding of such systems are a bit more tractable than the alternative.
+
 
 
 
 2) the prediction of intervals that allow us to find patterns in stochastic sequences.
+Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing. Interval and difference computing requires one to define major 
 
 
 3) geometric generativity and isometric networks.
-     The construction of nested and overlapping shapes, in addition to isometric networks, can be used to represent sets of relationships that possess non-transitive properties, recursivity, and co-varying higher dimensionality. 
+The construction of nested and overlapping shapes, in addition to isometric networks, can be used to represent sets of relationships that possess non-transitive properties, recursivity, and co-varying higher dimensionality. 
      
 We will discuss isometric networks first. Isometric networks consist of a series of interconnected isometric shapes. Isometric geometries have been used in art and video game design. Isometric networks are drawn in 2-dimensions, but due to their orientation, project 3-dimensions of information. moreover, due to this projection, the second and third dimensions are entangled, leading to shared variance amongst both dimensions.
 
