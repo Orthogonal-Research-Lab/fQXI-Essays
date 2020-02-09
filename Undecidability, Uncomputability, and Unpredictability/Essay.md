@@ -8,18 +8,18 @@
           "<i>A little bit of many things, but mostly the things that cannot be easily coded</i>" 
 </p>
      
-This quote is taken from the description for Bradly Alicea's Github repository. At first look, this might be the perfect description of a generalist with a range of unruly interests. This is of course a subjective take, but does bring up a conceptual point. Unruliness can be used as a way to describe what we cannot formalize. Unruly problems are messy, but can also include so-called wicked problems. Such problems are hard to represent with mathematics and sometimes even with words. However, they are not inherently qualitative or structureless! As Wigner once proposed that mathematics is unreasonable in its effectiveness, so we might also propose that poorly-represented problems have elusive answers.  
+This quote is taken from the description for Bradly Alicea's Github repository. At first look, this might be the perfect description of a generalist with a range of unruly interests. This is of course a subjective take, but does bring up a conceptual point. Unruliness can be used as a way to describe what we cannot formalize. Unruly problems are messy, but can also include so-called wicked problems. Such problems are hard to represent with mathematics and sometimes even with words. However, they are not inherently qualitative or structureless! As Wigner once proposed that mathematics is unreasonable in its effectiveness [1], so we might also propose that poorly-represented problems have elusive answers.  
 
 These types of problems are hard to represent, but not always for the lack of mathematical tools. Examples include systems with a large number of variable or high degrees of nonlinearity relative to methods such as experimental design or measurement of nearest-neighbor interactions. Inverse problems of highly-interacting systems such as swarm intelligence can also be classified in this way. While solutions can be proposed, this essay focuses on the need for a new paradigm for solving such problems.
 
 ### What makes a problem hard-to-represent?
 
 #### Difficult to quantify
-While many problems can be easily quantified, many other problems cannot. In a related manner, even many quantifiable problems do not yield clear quantitative structure. Quantitative structure refers to separability (gaps and difference), alignment (function and curve-fitting), and correspondance (one set of datapoints correspnd to an analogous set). The alternative to structure, however, is "grey goo", or a smearing of categories and distinction. There is an unexplored link between highly-qualitative problems and randomness, although our perceptual systems impose order upon these problems as well. 
+While many problems can be easily quantified, many other problems cannot. In a related manner, even many quantifiable problems do not yield clear quantitative structure. Quantitative structure refers to separability (gaps and difference), alignment (function and curve-fitting), and correspondance (one set of datapoints correspnd to an analogous set). The alternative to structure, however, is "grey goo" [2], or a smearing of categories and distinction. There is an unexplored link between highly-qualitative problems and randomness, although our perceptual systems impose order upon these problems as well. 
 
 Do we need a new field called percpetual statistics where different mental models yield unique structural observations, while emsemble models produce consensus views of ontological structure? If so, then ontological structure forms the basis of a new way to properly quantify systems that would otherwise be difficult to attach numeric or symbolic systems.  
 
-#### Difficult to symbolize  
+#### Difficult to symbolize and represent
 As numbers and operators are symbols, it is worth asking whether some systems are hard to symbolize. If a problem is hard to define (such as wicked problems), then they may also be difficult to symbolize. A symbol is a compact representation of some feature or process, and we can turn to cybernetics to understand why some systems are easier to reduce to a symbolic representation than others. 
 
 ((UNSURE if this should go under this heading or the next heading - or perhaps its own))
@@ -61,9 +61,11 @@ While isometric networks can represent transitive relationships, we can configur
 While traditional statistical methods allow us to discover associations, we might want to discover free associations that are harder to define in terms of a feature space. This is where we can use fuzzy logic in multidimensional space to help us create intervals which can also be used to facilitate interval and difference computing.
 
 ### References
-[1]
+[1] Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. _Communications on Pure and Applied Mathematics_, 13: 1–14. 
 
-[2]
+[2] Kaufmann's Noah's Vessel experiment (grind up all living cells into a single vessel, is complexity maintained and does it re-emerge). 
+
+Kauffman, S. (1995). At Home in the Universe: the search for the laws of self-organization and order. Oxford University Press, Oxford, UK.
 
 [3]
 
