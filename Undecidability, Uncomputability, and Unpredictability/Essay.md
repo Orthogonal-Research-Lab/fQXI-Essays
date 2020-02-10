@@ -22,7 +22,6 @@ Do we need a new field called percpetual statistics where different mental model
 #### Difficult to symbolize and represent
 As numbers and operators are symbols, it is worth asking whether some systems are hard to symbolize. If a problem is hard to define (such as wicked problems), then they may also be difficult to symbolize. A symbol is a compact representation of some feature or process, and we can turn to cybernetics to understand why some systems are easier to reduce to a symbolic representation than others. 
 
-((UNSURE if this should go under this heading or the next heading - or perhaps its own))
 If "a theory is a metaphor between model and data", as Julian Jaynes said [JJ], the relationship between data and models itself can be a challenge. 
 
 #### Un-physical problems (no physical analogue)  
