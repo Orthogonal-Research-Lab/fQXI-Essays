@@ -1,4 +1,4 @@
-## Title: The illusion of structure or the insufficiency of approach? the un^3 of certain problems 
+## Title: The illusion of structure or the insufficiency of approach? the un<sup>^3</sup> of certain problems 
 
 >>>>> "Elusive Answers to Poorly-represented Problems", "Mathematical Effectiveness is Physical Salience", "The illusion of structure or the insufficiency of approach?"
 >>>>> fQXI essay contest ["Undecidability, Uncomputability, and Unpredictability"](https://fqxi.org/community/essay/rules) 
