@@ -45,7 +45,9 @@ While continuous approximation has become increasing easier with advances in com
 
 
 2) the prediction of intervals that allow us to find patterns in stochastic sequences.
-Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing. Interval and difference computing requires us to define these features in the system of interest. 
+Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing [4]. Interval and difference computing requires us to define these features in the system of interest. 
+
+Interval computation can also be done using neural models [5].
 
 
 3) geometric generativity and isometric networks.
@@ -69,3 +71,7 @@ Kauffman, S. (1995). At Home in the Universe: the search for the laws of self-or
 [3]
 
 [JJ] Julian Jaynes, "The Origin of Consciousness in the Breakdown of the Bicameral Mind"
+
+[4] Rokne, J.G. (2001). Interval Arithmetic and Interval Analysis: An Introduction. In "Granular Computing", W. Pedrycz ed., pp. 1-22. Springer, Berlin. 
+
+[5] Rose, G.J., Leary, C.J., and Edwards, C.J. (2011). Interval-counting Neurons in the Anuran Auditory Midbrain: Factors Underlying Diversity of Interval Tuning. _Journal of Computation and Physiology A_, 197(1), 97-108.
