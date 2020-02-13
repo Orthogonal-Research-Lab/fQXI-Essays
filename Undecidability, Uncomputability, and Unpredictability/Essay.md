@@ -1,4 +1,4 @@
-## Title: The illusion of structure or the insufficiency of approach? the un<sup>^3</sup> of certain problems 
+## Title: The illusion of structure or the insufficiency of approach? the un+3 of certain problems 
 
 >>>>> "Elusive Answers to Poorly-represented Problems", "Mathematical Effectiveness is Physical Salience", "The illusion of structure or the insufficiency of approach?"
 >>>>> fQXI essay contest ["Undecidability, Uncomputability, and Unpredictability"](https://fqxi.org/community/essay/rules) 
@@ -24,7 +24,7 @@ As numbers and operators are symbols, it is worth asking whether some systems ar
 
 If "a theory is a metaphor between model and data", as Julian Jaynes said [JJ], the relationship between data and models itself can be a challenge. 
 
-One class of such problems are known as "wicked" problems [3].
+One class of such problems are known as "wicked" problems [3]. Wicked problems incorporate many different types of system, but have been characterized by large social problems such as a planned economy or systems with many parallel components. A particular feature of wicked problems is that some of the variables and phenomena needed to characterize the problem are not predictable. While it is tempting to suggest that these phenomena are simply exist in a chaotic regime, it is more likely that unpredictable components are variables that produces unstructured data in a system that exhibits structure.
 
 #### Un-physical problems (no physical analogue)  
 We often use physical analogues to address complex biological and social problems (the "velocity" of spent money, "jet engines" to propel organisms through water or air, "gas" models of social interactions). But how physical are these systems, and do analogues provide insight? In cases such as Psychophysics, there is an interaction with physical processes. It may also be that such metaphors rest on problems and systems that are easy to quantify and symbolize.  
@@ -33,7 +33,7 @@ We often use physical analogues to address complex biological and social problem
 
 How can we represent such problems both mathematically and computationally? Is there a type of logical framework that might supercede conventional mathematics in these cases?
 
-Do we need a new model for computation (continuous, stochastic), or can our current models sufficiently account for "difficult" problems?  
+Do we need a new model for computation (continuous, stochastic), or can our current models sufficiently account for difficult-to-characterize or even wicked problems?  
 
 Is there a connection with the ability to replicate experiments? In the case of experiments that are found not to replicate, is there a methodological problem, or is it a matter of not using the proper representation (what are key variables, or what is key mode of inquiry)? 
 
