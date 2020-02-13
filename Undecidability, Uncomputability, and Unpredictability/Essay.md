@@ -70,9 +70,9 @@ While traditional statistical methods allow us to discover associations, we migh
 
 Kauffman, S. (1995). At Home in the Universe: the search for the laws of self-organization and order. Oxford University Press, Oxford, UK.
 
-[JJ] Julian Jaynes, "The Origin of Consciousness in the Breakdown of the Bicameral Mind"
+[JJ] Jaynes, J. (2000). The Origin of Consciousness in the Breakdown of the Bicameral Mind. Mariner Books.
 
-[3]
+[3] term originated with C. West Churchman. See also: Brown, V.A., Harris, J.A., and Russell, J.Y.   Tackling Wicked Problems: Through the Transdisciplinary Imagination. Earthscan, London (2010).
 
 [4] Rokne, J.G. (2001). Interval Arithmetic and Interval Analysis: An Introduction. In "Granular Computing", W. Pedrycz ed., pp. 1-22. Springer, Berlin. 
 
