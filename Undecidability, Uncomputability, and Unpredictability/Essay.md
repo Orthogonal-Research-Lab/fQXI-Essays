@@ -24,6 +24,8 @@ As numbers and operators are symbols, it is worth asking whether some systems ar
 
 If "a theory is a metaphor between model and data", as Julian Jaynes said [JJ], the relationship between data and models itself can be a challenge. 
 
+One class of such problems are known as "wicked" problems [3].
+
 #### Un-physical problems (no physical analogue)  
 We often use physical analogues to address complex biological and social problems (the "velocity" of spent money, "jet engines" to propel organisms through water or air, "gas" models of social interactions). But how physical are these systems, and do analogues provide insight? In cases such as Psychophysics, there is an interaction with physical processes. It may also be that such metaphors rest on problems and systems that are easy to quantify and symbolize.  
 
@@ -31,7 +33,7 @@ We often use physical analogues to address complex biological and social problem
 
 How can we represent such problems both mathematically and computationally? Is there a type of logical framework that might supercede conventional mathematics in these cases?
 
-Do we need a new model for computation (continuous, stochastic)?  
+Do we need a new model for computation (continuous, stochastic), or can our current models sufficiently account for "difficult" problems?  
 
 Is there a connection with the ability to replicate experiments? In the case of experiments that are found not to replicate, is there a methodological problem, or is it a matter of not using the proper representation (what are key variables, or what is key mode of inquiry)? 
 
@@ -68,9 +70,9 @@ While traditional statistical methods allow us to discover associations, we migh
 
 Kauffman, S. (1995). At Home in the Universe: the search for the laws of self-organization and order. Oxford University Press, Oxford, UK.
 
-[3]
-
 [JJ] Julian Jaynes, "The Origin of Consciousness in the Breakdown of the Bicameral Mind"
+
+[3]
 
 [4] Rokne, J.G. (2001). Interval Arithmetic and Interval Analysis: An Introduction. In "Granular Computing", W. Pedrycz ed., pp. 1-22. Springer, Berlin. 
 
