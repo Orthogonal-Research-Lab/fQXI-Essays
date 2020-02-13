@@ -1,4 +1,4 @@
-## Title: The illusion of structure or the insufficiency of approach? the un+3 of certain problems 
+## Title: The illusion of structure or the insufficiency of approach? the un(3) of certain problems 
 
 >>>>> "Elusive Answers to Poorly-represented Problems", "Mathematical Effectiveness is Physical Salience", "The illusion of structure or the insufficiency of approach?"
 >>>>> fQXI essay contest ["Undecidability, Uncomputability, and Unpredictability"](https://fqxi.org/community/essay/rules) 
@@ -24,7 +24,7 @@ As numbers and operators are symbols, it is worth asking whether some systems ar
 
 If "a theory is a metaphor between model and data", as Julian Jaynes said [JJ], the relationship between data and models itself can be a challenge. 
 
-One class of such problems are known as "wicked" problems [3]. Wicked problems incorporate many different types of system, but have been characterized by large social problems such as a planned economy or systems with many parallel components. A particular feature of wicked problems is that some of the variables and phenomena needed to characterize the problem are not predictable. While it is tempting to suggest that these phenomena are simply exist in a chaotic regime, it is more likely that unpredictable components are variables that produces unstructured data in a system that exhibits structure.
+One class of such problems are known as "wicked" problems [3]. Wicked problems incorporate many different types of system, but have been characterized by large social problems such as a planned economy or systems with many parallel components. A particular feature of wicked problems is that some of the variables and phenomena needed to characterize the problem are not predictable. While it is tempting to suggest that these phenomena are simply exist in a chaotic regime, it is more likely that unpredictable components are variables that produces unstructured data in a system that exhibits structure. 
 
 #### Un-physical problems (no physical analogue)  
 We often use physical analogues to address complex biological and social problems (the "velocity" of spent money, "jet engines" to propel organisms through water or air, "gas" models of social interactions). But how physical are these systems, and do analogues provide insight? In cases such as Psychophysics, there is an interaction with physical processes. It may also be that such metaphors rest on problems and systems that are easy to quantify and symbolize.  
@@ -47,9 +47,7 @@ While continuous approximation has become increasing easier with advances in com
 
 
 2) the prediction of intervals that allow us to find patterns in stochastic sequences.
-Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing [4]. Interval and difference computing requires us to define these features in the system of interest. 
-
-Interval computation can also be done using neural models [5].
+Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing [4]. Interval and difference computing requires us to define these features in the system of interest. One promising technique is to use the features of natural systems as a tool for computation. Interval computation can be done in this way using neural models [5] and neural-inspired models such as dendritic computing [6]. 
 
 
 3) geometric generativity and isometric networks.
@@ -77,3 +75,5 @@ Kauffman, S. (1995). At Home in the Universe: the search for the laws of self-or
 [4] Rokne, J.G. (2001). Interval Arithmetic and Interval Analysis: An Introduction. In "Granular Computing", W. Pedrycz ed., pp. 1-22. Springer, Berlin. 
 
 [5] Rose, G.J., Leary, C.J., and Edwards, C.J. (2011). Interval-counting Neurons in the Anuran Auditory Midbrain: Factors Underlying Diversity of Interval Tuning. _Journal of Computation and Physiology A_, 197(1), 97-108.
+
+[6] Mel, B.W. (1994). Information Processing in Dendritic Trees. _Neural Computation_, 6(6), 1031-1085. doi:10.1162/neco.1994.6.6.1031
