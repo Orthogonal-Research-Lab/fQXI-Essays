@@ -1,4 +1,4 @@
-## Working Title: The illusion of structure or the insufficiency of approach? the un(3) of certain problems 
+## Working Title: The illusion of structure or insufficiency of approach? the un(3) of certain problems 
 
 >>>>> Other possible titles: "Elusive Answers to Poorly-represented Problems", "Mathematical Effectiveness is Physical Salience", "The illusion of structure or the insufficiency of approach?"
 
