@@ -3,7 +3,7 @@
 >>>>> Other possible titles: "Elusive Answers to Poorly-represented Problems", "Mathematical Effectiveness is Physical Salience", "The illusion of structure or the insufficiency of approach?"
 
 >>>>> fQXI essay contest ["Undecidability, Uncomputability, and Unpredictability"](https://fqxi.org/community/essay/rules) 
-     
+       
 ### Introduction  
 <p align="center">
           "<i>A little bit of many things, but mostly the things that cannot be easily coded</i>" 
@@ -20,7 +20,7 @@ While many problems can be easily quantified, many other problem domains cannot.
 
 Quantitative structure also exist as a signature of dynamic organizational complexity. We can examine this by considering the most extreme alternative to quantitative structure: grey goo [2]. Grey goo (or the complete lack of structure) can be attributed to procsses such as runaway autophagy [3] and results in a smearing of categories and distinction. Kaufmann's Noah's Vessel experiment suggests that if all biological cells on earth were ground up and poured into a single vessel, we could test to see if the biocomplexity of cells and multicellular organisms reestablishes itself. While Kaufmann suggests it might be possible due the contents of our vessel acting like a supercritical fluid [4]. This behavior is driven by interactions at the molecular level, unbounded by cell membranes and other subsystem boundaries. 
 
-From this example, we might assume that grey goo results in a lack of structure. Yet might we suggest that subcritical grey goo leads to a different kind of structure: qualitative structure. Qualitative structure is simply structure that cannot be easily identified with qualitative methods. There are also unexplored links between qualitative structure, randomness, and chaos so that random behavior leads to structure that is neither systematic nor replicable. Yet there is even a more fundamental question: whether quantitative methods rely upon our perceptual systems to impose order upon a system, which in turn yields structure.  
+From this example, we might assume that grey goo results in a lack of structure. Yet might we suggest that subcritical grey goo leads to a different kind of structure: qualitative structure. Qualitative structure is simply structure that cannot be easily identified with qualitative methods. There are also unexplored links between qualitative structure, randomness, and chaos so that random behavior leads to structure that is neither systematic nor replicable. Yet there is even a more fundamental question: do quantitative methods rely upon our perceptual systems to impose order upon a system and yield structure? If so, qualitative-quantitative converter models based on models of human cognition could decode much of this transient structure and turn it into quantitative and computable data.
 
 As we rely on statistical models to identify structure, do we need a new field where different mental models yield unique structural observations, while emsemble models produce consensus views of ontological structure? We might call this field "percpetual statistics", 
 and would rely on ontological structure to properly quantify systems that would otherwise be difficult to attach numeric or symbolic systems. This would form the basis for a new way to compute, understand nature, and analyze human societies.
@@ -34,10 +34,9 @@ One class of such problems are known as "wicked" problems [6]. Wicked problems i
 
 #### Un-physical problems (no physical analogue)  
 
-We often use physical analogues to address complex biological and social problems. Examples include the brain and neurological function as a "computer", "velocity" of spent money, "jet engines" that propel organisms through water or air, or "gas" models of social interactions. But how physical are these systems, and do analogues provide insight? Or further, even if the physical analogy does hold, to what extent; is the physical analogue only modeling or speaking to a fraction of the situation, and not the whole?
+We often use physical analogues to address complex biological and social problems. Examples include the brain and neurological function as a "computer", "velocity" of spent money, "jet engines" that propel organisms through water or air, or "gas" models of social interactions. But how physical are these systems, and do analogues provide insight? Even if the physical analogy does hold, to what extent is the physical analogue only modeling or speaking to a fraction of the structure in our system relative to a holistic view? This was discussed earlier in the difficult of quantify section. UN-physical problems pose a unique challenge in this respect: the structure is not merely transient, but reliant on a global view in space and time. Therefore, a subset of un-physical problems are those that cannot be easily be abstracted into computational form.
 
-To understand this, we can contrast phenomena that are psychophysical versus phenomena that are metaphysical. Psychophysical phenomena are interactions between the human perceptual system and regularities that result from physical features of the stimulus. By contrast, metaphysical phenomena are thise which cannot be mapped to physical properties such as light or surfaces.  
-
+Returning to the issue of physical versus non-physicl systems, we can contrast phenomena that are psychophysical versus phenomena that are metaphysical. Psychophysical phenomena are interactions between the human perceptual system and regularities that result from physical features of the stimulus. By contrast, metaphysical phenomena are thise which cannot be mapped to physical properties such as light or surfaces.  
 
 It may also be that such metaphors rest on systems that are easy to quantify and symbolize. Systems with discrete parts, consistent outputs, and deterministic behaviors fall into such a category.
 
@@ -72,9 +71,6 @@ While isometric networks can represent transitive relationships, we can configur
 
 4) fuzzy multidimensionality and associative methods.
 While traditional statistical methods allow us to discover associations, we might want to discover free associations that are harder to define in terms of a feature space. This is where we can use fuzzy logic in multidimensional space to help us create intervals which can also be used to facilitate interval and difference computing.  
-
->>>>> JComment: Is this related to creating a general context/space for something, even without clear 'rules' of boundaries? 
-
 
 ### References
 [1] Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. _Communications on Pure and Applied Mathematics_, 13: 1–14. 
