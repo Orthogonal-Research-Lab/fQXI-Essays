@@ -73,6 +73,9 @@ While isometric networks can represent transitive relationships, we can configur
 4) fuzzy multidimensionality and associative methods.
 While traditional statistical methods allow us to discover associations, we might want to discover free associations that are harder to define in terms of a feature space. This is where we can use fuzzy logic in multidimensional space to help us create intervals which can also be used to facilitate interval and difference computing.  
 
+>>>>> JComment: Is this related to creating a general context/space for something, even without clear 'rules' of boundaries? 
+
+
 ### References
 [1] Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. _Communications on Pure and Applied Mathematics_, 13: 1–14. 
 
