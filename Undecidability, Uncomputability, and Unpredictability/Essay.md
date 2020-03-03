@@ -30,7 +30,7 @@ One class of such problems are known as "wicked" problems [3]. Wicked problems i
 #### Un-physical problems (no physical analogue)  
 We often use physical analogues to address complex biological and social problems. Examples include the "velocity" of spent money, "jet engines" that propel organisms through water or air, or "gas" models of social interactions. But how physical are these systems, and do analogues provide insight? To understand this, we can contrast phenomena that are psychophysical versus phenomena that are metaphysical. Psychophysical phenomena are interactions between the human perceptual system and regularities that result from physical features of the stimulus. By contrast, metaphysical phenomena are thise which cannot be mapped to physical properties such as light or surfaces.  
 
-It may also be that such metaphors rest on systems that are easy to quantify and symbolize.  -----------
+It may also be that such metaphors rest on systems that are easy to quantify and symbolize. Systems with discrete parts, consistent outputs, and deterministic behaviors fall into such a category.
 
 ### Questions that result from these issues  
 
