@@ -11,26 +11,29 @@
      
 This quote is taken from the description for Bradly Alicea's Github repository. At first look, this might be the perfect description of a generalist with a range of unruly interests. This is of course a subjective take, but does bring up a conceptual point. Unruliness can be used as a way to describe what we cannot formalize. Unruly problems are messy, but can also include so-called wicked problems. Such problems are hard to represent with mathematics and sometimes even with words. However, they are not inherently qualitative or structureless! As Wigner once proposed that mathematics is unreasonable in its effectiveness [1], so we might also propose that poorly-represented problems have elusive answers.  
 
-These types of problems are hard to represent, but not always for the lack of mathematical tools. Examples include systems with a large number of variable or high degrees of nonlinearity relative to methods such as experimental design or measurement of nearest-neighbor interactions. Inverse problems of highly-interacting systems such as swarm intelligence can also be classified in this way. While solutions can be proposed, this essay focuses on the need for a new paradigm for solving such problems.  
+These types of problems are hard to represent, but not always for the lack of mathematical tools. Examples include systems with a large number of variables or high degrees of nonlinearity. These type of systems stand in contrast to methods such as experimental design or measurement of nearest-neighbor interactions. Inverse problems of highly-interacting systems such as swarm intelligence can also be classified in this way. While solutions can be proposed, this essay focuses on the need for a new paradigm for solving such problems.  
 
 ### What makes a problem hard-to-represent?
 
 #### Difficult to quantify
-While many problems can be easily quantified, many other problems cannot. In a related manner, even many quantifiable problems do not yield clear quantitative structure. Quantitative structure refers to separability (gaps and difference), alignment (function and curve-fitting), and correspondance (one set of datapoints correspnd to an analogous set). The alternative to structure, however, is "grey goo" [2], or a smearing of categories and distinction. There is an unexplored link between highly-qualitative problems and randomness, although our perceptual systems impose order upon these problems as well.  
+While many problems can be easily quantified, many other problem domains cannot. In a related manner, even many quantifiable problems do not yield clear quantitative structure. While we study model systems to yield broadly-applicable insights into similar systems, model systems also provide a window into In this essay, quantitative structure will be limited to separability (gaps and difference), alignment (function and curve-fitting), and correspondance (one set of datapoints correspnd to an analogous set). While these attributes are signatures of quantitative structure, they can also be identified in systems with limited structure. 
 
-Do we need a new field called percpetual statistics where different mental models yield unique structural observations, while emsemble models produce consensus views of ontological structure? If so, then ontological structure forms the basis of a new way to properly quantify systems that would otherwise be difficult to attach numeric or symbolic systems.  
+Quantitative structure also exist as a signature of dynamic organizational complexity. We can examine this by considering the most extreme alternative to quantitative structure: grey goo [2]. Grey goo (or the complete lack of structure) can be attributed to procsses such as runaway autophagy [3] and results in a smearing of categories and distinction. Kaufmann's Noah's Vessel experiment suggests that if all biological cells on earth were ground up and poured into a single vessel, we could test to see if the biocomplexity of cells and multicellular organisms reestablishes itself. While Kaufmann suggests it might be possible due the contents of our vessel acting like a supercritical fluid [4]. This behavior is driven by interactions at the molecular level, unbounded by cell membranes and other subsystem boundaries. 
+
+From this example, we might assume that grey goo results in a lack of structure. Yet might we suggest that subcritical grey goo leads to a different kind of structure: qualitative structure. Qualitative structure is simply structure that cannot be easily identified with qualitative methods. There are also unexplored links between qualitative structure, randomness, and chaos so that random behavior leads to structure that is neither systematic nor replicable. Yet there is even a more fundamental question: whether quantitative methods rely upon our perceptual systems to impose order upon a system, which in turn yields structure.  
+
+As we rely on statistical models to identify structure, do we need a new field where different mental models yield unique structural observations, while emsemble models produce consensus views of ontological structure? We might call this field "percpetual statistics", 
+and would rely on ontological structure to properly quantify systems that would otherwise be difficult to attach numeric or symbolic systems. This would form the basis for a new way to compute, understand nature, and analyze human societies.
 
 #### Difficult to symbolize and represent
 As numbers and operators are symbols, it is worth asking whether some systems are hard to symbolize. If a problem is hard to define (such as wicked problems), then they may also be difficult to symbolize. A symbol is a compact representation of some feature or process, and we can turn to cybernetics to understand why some systems are easier to reduce to a symbolic representation than others.  
 
-If "a theory is a metaphor between model and data", as Julian Jaynes said [JJ], then we must consider the metaphors that we use in creating theories and intepreting data. These metaphors might be intentionally selected because they provide easy access to the language of quantificaiton. In the next section, we will discuss problems for which there is no physical analogue. The idea that data needs to interface with such a model is largely an illusion. In addition, there are systems for which existing models and metaphors extending them to data are simply insufficient. In such cases, even physical metaphors are insufficient to the task of making quantification easier.  
+If "a theory is a metaphor between model and data", as Julian Jaynes said [5], then we must consider the metaphors that we use in creating theories and intepreting data. These metaphors might be intentionally selected because they provide easy access to the language of quantificaiton. In the next section, we will discuss problems for which there is no physical analogue. The idea that data needs to interface with such a model is largely an illusion. In addition, there are systems for which existing models and metaphors extending them to data are simply insufficient. In such cases, even physical metaphors are insufficient to the task of making quantification easier.  
 
-One class of such problems are known as "wicked" problems [3]. Wicked problems incorporate many different types of system, but have been characterized by large social problems such as a planned economy, social change and persistence, or complex systems with many parallel components. A particular feature of wicked problems is that some of the variables and phenomena needed to characterize the problem are not predictable. While it is tempting to suggest that these phenomena are simply exist in a chaotic regime, it is more likely that unpredictable components are variables that produces unstructured data in a system that exhibits structure.  
+One class of such problems are known as "wicked" problems [6]. Wicked problems incorporate many different types of system, but have been characterized by large social problems such as a planned economy, social change and persistence, or complex systems with many parallel components. A particular feature of wicked problems is that some of the variables and phenomena needed to characterize the problem are not predictable. While it is tempting to suggest that these phenomena are simply exist in a chaotic regime, it is more likely that unpredictable components are variables that produces unstructured data in a system that exhibits structure.  
 
 #### Un-physical problems (no physical analogue)  
-We often use physical analogues to address complex biological and social problems. Examples include the brain and neurological function as a "computer", "velocity" of spent money, "jet engines" that propel organisms through water or air, or "gas" models of social interactions. But how physical are these systems, and do analogues provide insight? 
-
-To understand this, we can contrast phenomena that are psychophysical versus phenomena that are metaphysical. Psychophysical phenomena are interactions between the human perceptual system and regularities that result from physical features of the stimulus. By contrast, metaphysical phenomena are thise which cannot be mapped to physical properties such as light or surfaces.  
+We often use physical analogues to address complex biological and social problems. Examples include the "velocity" of spent money, "jet engines" that propel organisms through water or air, or "gas" models of social interactions. But how physical are these systems, and do analogues provide insight? To understand this, we can contrast phenomena that are psychophysical versus phenomena that are metaphysical. Psychophysical phenomena are interactions between the human perceptual system and regularities that result from physical features of the stimulus. By contrast, metaphysical phenomena are thise which cannot be mapped to physical properties such as light or surfaces.  
 
 It may also be that such metaphors rest on systems that are easy to quantify and symbolize. Systems with discrete parts, consistent outputs, and deterministic behaviors fall into such a category.
 
@@ -52,7 +55,7 @@ While continuous approximation has become increasing easier with advances in com
 
 
 2) the prediction of intervals that allow us to find patterns in stochastic sequences.
-Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing [4]. Interval and difference computing requires us to define these features in the system of interest. One promising technique is to use the features of natural systems as a tool for computation. Interval computation can be done in this way using neural models [5] and neural-inspired models such as dendritic computing [6].  
+Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing [7]. Interval and difference computing requires us to define these features in the system of interest. One promising technique is to use the features of natural systems as a tool for computation. Interval computation can be done in this way using neural models [8] and neural-inspired models such as dendritic computing [9].  
 
 
 3) geometric generativity and isometric networks.
@@ -69,16 +72,19 @@ While traditional statistical methods allow us to discover associations, we migh
 ### References
 [1] Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. _Communications on Pure and Applied Mathematics_, 13: 1–14. 
 
-[2] Kaufmann's Noah's Vessel experiment (grind up all living cells into a single vessel, is complexity maintained and does it re-emerge). 
+[2] Drexler, K.E. (1992). Nanosystems: molecular machinery, manufacturing, and computation. Wiley, New York.
 
-Kauffman, S. (1995). At Home in the Universe: the search for the laws of self-organization and order. Oxford University Press, Oxford, UK.
+[3] Glick, D., Barth, S., and Macleod, K.F. (2010). Autophagy: cellular and molecular mechanisms. _Journal of Pathology_, 221(1), 3–12.
+doi: 10.1002/path.2697
 
-[JJ] Jaynes, J. (2000). The Origin of Consciousness in the Breakdown of the Bicameral Mind. Mariner Books.
+[4]  Kauffman, S. (1995). At Home in the Universe: the search for the laws of self-organization and order. Oxford University Press, Oxford, UK.
 
-[3] term originated with C. West Churchman. See also: Brown, V.A., Harris, J.A., and Russell, J.Y.   Tackling Wicked Problems: Through the Transdisciplinary Imagination. Earthscan, London (2010).
+[5] Jaynes, J. (2000). The Origin of Consciousness in the Breakdown of the Bicameral Mind. Mariner Books.
 
-[4] Rokne, J.G. (2001). Interval Arithmetic and Interval Analysis: An Introduction. In "Granular Computing", W. Pedrycz ed., pp. 1-22. Springer, Berlin. 
+[6] term originated with C. West Churchman. See also: Brown, V.A., Harris, J.A., and Russell, J.Y.   Tackling Wicked Problems: Through the Transdisciplinary Imagination. Earthscan, London (2010).
 
-[5] Rose, G.J., Leary, C.J., and Edwards, C.J. (2011). Interval-counting Neurons in the Anuran Auditory Midbrain: Factors Underlying Diversity of Interval Tuning. _Journal of Computation and Physiology A_, 197(1), 97-108.
+[7] Rokne, J.G. (2001). Interval Arithmetic and Interval Analysis: An Introduction. In "Granular Computing", W. Pedrycz ed., pp. 1-22. Springer, Berlin. 
 
-[6] Mel, B.W. (1994). Information Processing in Dendritic Trees. _Neural Computation_, 6(6), 1031-1085. doi:10.1162/neco.1994.6.6.1031
+[8] Rose, G.J., Leary, C.J., and Edwards, C.J. (2011). Interval-counting Neurons in the Anuran Auditory Midbrain: Factors Underlying Diversity of Interval Tuning. _Journal of Computation and Physiology A_, 197(1), 97-108.
+
+[9] Mel, B.W. (1994). Information Processing in Dendritic Trees. _Neural Computation_, 6(6), 1031-1085. doi:10.1162/neco.1994.6.6.1031
