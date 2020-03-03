@@ -56,15 +56,20 @@ An outline of four potential approaches are as follows:
 1) continuous methods that use the behavior of fluids, biological collectives, or soft materials as inspiration.
 While continuous approximation has become increasing easier with advances in computing technology, this requires an ability to capture the phenomenon of interest using methods that make such systems quantifiable. To bridge this conceptual gap, we can map such systems onto fluids, biological collectives, and soft materials. While these mappings are quasi-quantitative, our mathematical understanding of such systems are a bit more tractable than the alternative.  
 
+[[bio-inspired continuous methods for measuring emergence]]
 
 2) the prediction of intervals that allow us to find patterns in stochastic sequences.
 Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing [7]. Interval and difference computing requires us to define these features in the system of interest. One promising technique is to use the features of natural systems as a tool for computation. Interval computation can be done in this way using neural models [8] and neural-inspired models such as dendritic computing [9].  
+
+[[diagram of interval discovery here]]
 
 
 3) geometric generativity and isometric networks.
 The construction of nested and overlapping shapes, in addition to isometric networks, can be used to represent sets of relationships that possess non-transitive properties, recursivity, and co-varying higher dimensionality.  
      
 We will discuss isometric networks first. Isometric networks consist of a series of interconnected isometric shapes. Isometric geometries have been used in art and video game design. Isometric networks are drawn in 2-dimensions, but due to their orientation, project 3-dimensions of information. moreover, due to this projection, the second and third dimensions are entangled, leading to shared variance amongst both dimensions.  
+
+[[diagram of example network here]]
 
 While isometric networks can represent transitive relationships, we can configure such networks (and particularly their growth) in such a way so as to introduce nontransitive elements. Nested and overlapping shapes drawn as a generative landscape might be a way to introduce such properties. Much as injecting stochasticity into boolean models make them more lifelike, so can injecting generativity into simple geometric systems gets us closer to what Douglas Hofstadter refers to as a strange loop.  
      
