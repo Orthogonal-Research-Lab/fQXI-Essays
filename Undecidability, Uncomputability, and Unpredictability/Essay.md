@@ -41,6 +41,7 @@ Returning to the issue of physical versus non-physicl systems, we can contrast p
 It may also be that such metaphors rest on systems that are easy to quantify and symbolize. Systems with discrete parts, consistent outputs, and deterministic behaviors fall into such a category.
 
 ### Questions that result from these issues  
+There are three focused research questions we can ask with respect to establishing a set of investigative approaches. These involve the potential for new models, logical frameworks, and replication of experimental methods. They are as follows:
 
 How can we represent such problems both mathematically and computationally? Is there a type of logical framework that might supercede conventional mathematics in these cases?
 
