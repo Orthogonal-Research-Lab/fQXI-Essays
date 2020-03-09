@@ -45,9 +45,7 @@ Do we need new models for computation allied with continuous and stochastic meth
 Is there a connection with the ability to replicate experiments? In the case of experiments that are found not to replicate, is there a methodological problem, or is it a matter of not using the proper representation (what are key variables, or what is key mode of inquiry)? 
 
 ### Is a new paradigm for measurement and computation the answer?
-We can also propose a new paradigm for understanding the empirical and conceptual limitations posed by this essay: physical cognition. Given this discussion, we might ask whether a new paradigm is needed. Indeed, while a new computational and quantitative paradigm may be hard to reconcile with traditional mathematics and computer science, it may help us overcome some of the limitations of tradition.
-
-An outline of four potential approaches are as follows:
+In this essay, we have learned that a wide variety of systems have components that are difficult to characterize at an epistemic level. Coupled with complexity in the form of problems that are wicked, difficult to symbolize, and difficult to represent, it is no wonder that un(3) phenomena rear their head. This leads us to propose a new paradigm for understanding the empirical and conceptual limitations posed by this essay. While a new computational and quantitative paradigm may be hard to reconcile with traditional mathematics and computer science, it may help us overcome some of the limitations of tradition. An outline of four potential approaches are as follows:
 
 1) continuous methods that use the behavior of fluids, biological collectives, or soft materials as inspiration. While continuous approximation has become increasingly easier with advances in computing technology, this requires an ability to capture the phenomenon of interest using methods that make such systems quantifiable. To bridge this conceptual gap, we can map such systems onto fluids, biological collectives, and soft materials. While these mappings are quasi-quantitative, our mathematical understanding of such systems are a bit more tractable than the alternative.  
 
