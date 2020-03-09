@@ -1,81 +1,72 @@
 ## The illusion of structure or insufficiency of approach? the un(3) of unruly problems  
 Bradly Alicea, Jesse Parent, and Ankit Gupta
 
->>>>> fQXI essay contest ["Undecidability, Uncomputability, and Unpredictability"](https://fqxi.org/community/essay/rules) 
-       
 ### Introduction  
 <p align="center">
           "<i>A little bit of many things, but mostly the things that cannot be easily coded</i>" 
 </p>
      
-This quote is taken from the description for Bradly Alicea's Github repository [1]. At first look, this might be the perfect description of a generalist with a range of unruly interests. This is of course a subjective take, but does bring up a conceptual point. Unruliness can be used as a way to describe what we cannot formalize. Unruly problems are messy, but can also include so-called wicked problems [2]. Such problems are hard to represent with mathematics and sometimes even with words. However, they are not inherently qualitative or structureless! As Wigner once proposed that mathematics is unreasonable in its effectiveness [3], so we might also propose that poorly-represented problems have elusive answers.  
+This quote is taken from the description for Dr. Bradly Alicea's Github repository [1]. At first look, this might be the perfect description of a generalist with a range of unruly interests. This is of course a subjective take, but does bring up a conceptual point. Unruliness can be used as a way to describe what we cannot formalize. Unruly problems are messy, but can also include so-called wicked problems [2]. Such problems are hard to represent with mathematics and sometimes even with words. However, they are not inherently qualitative or structureless! As Wigner once proposed that mathematics is unreasonable in its effectiveness [3], so we might also propose that poorly-represented problems have elusive answers. As a contrast, we propose that unruliness is the main way we can identify instances of undecidability, uncomputability, and unpredictability (which we refer to as the un(3) of unruly problems). Once identified, we can analyze such problems using a range of alternative principles and analytical approaches.  
 
-These types of problems are hard to represent, but not always for the lack of mathematical tools. Examples include systems with a large number of variables or high degrees of nonlinearity. These type of systems stand in contrast to methods such as experimental design or measurement of nearest-neighbor interactions. Inverse problems of highly-interacting systems such as swarm intelligence can also be classified in this way. While solutions can be proposed, this essay focuses on the need for a new paradigm for solving such problems.  
+In general, un(3) problems are hard to represent. Yet this is not always for the lack of mathematical tools. Examples include systems with a large number of variables or high degrees of nonlinearity. These types of systems stand in contrast to methods such as experimental design or measurement of nearest-neighbor interactions. Inverse problems of highly-interacting systems such as swarm intelligence can also be classified in this way. While solutions can be proposed, this essay focuses on the need for a new paradigm for solving such problems.  
 
 ### What makes a problem hard-to-represent?
 
 #### Difficult to quantify
 While many problems can be easily quantified, many other problem domains cannot. In a related manner, even many quantifiable problems do not yield clear quantitative structure. While we study model systems to yield broadly-applicable insights into similar systems, model systems also provide a window into regularities that govern very general natural processes. In this essay, quantitative structure will be limited to separability (gaps and difference), alignment (function and curve-fitting), and correspondence (one set of data points correspond to an analogous set). While these attributes are signatures of quantitative structure, they can also be identified in systems with limited structure. 
 
-Quantitative structure also exists as a signature of dynamic organizational complexity. We can examine this by considering the most extreme alternative to quantitative structure: grey goo [4]. Grey goo (or the complete lack of structure) can be attributed to processes such as runaway autophagy [5] and results in a smearing of categories and distinction. Kaufmann's Noah's Vessel experiment suggests that if all biological cells on earth were ground up and poured into a single vessel, we could test to see if the biocomplexity of cells and multicellular organisms reestablishes itself. While Kaufmann suggests it might be possible due the contents of our vessel acting like a supercritical fluid [6]. This behavior is driven by interactions at the molecular level, unbounded by cell membranes and other subsystem boundaries. 
+Quantitative structure also exists as a signature of dynamic organizational complexity. We can examine this by considering the most extreme alternative to quantitative structure: grey goo [4]. Grey goo (or the complete lack of structure) can be attributed to processes such as runaway autophagy [5] and results in a smearing of categories and distinction. Kaufmann's Noah's Vessel experiment suggests that if all biological cells on earth were ground up and poured into a single vessel, we could test to see if the biocomplexity of cells and multicellular organisms re-establishes itself. While Kaufmann suggests it might be possible due to the contents of our vessel acting like a supercritical fluid [6]. This behavior is driven by interactions at the molecular level, unbounded by cell membranes and other subsystem boundaries. 
 
 From this example, we might assume that grey goo results in a lack of structure. Yet might we suggest that subcritical grey goo leads to a different kind of structure: qualitative structure. Qualitative structure is simply structure that cannot be easily identified with qualitative methods. There are also unexplored links between qualitative structure, randomness, and chaos so that random behavior leads to structure that is neither systematic nor replicable. Yet there is even a more fundamental question: do quantitative methods rely upon our perceptual systems to impose order upon a system and yield structure? If so, qualitative-quantitative converter models based on models of human cognition could decode much of this transient structure and turn it into quantitative and computable data.
 
-As we rely on statistical models to identify structure, do we need a new field where different mental models yield unique structural observations, while emsemble models produce consensus views of ontological structure? We might call this field "perceptual statistics", 
-and would rely on ontological structure to properly quantify systems that would otherwise be difficult to attach numeric or symbolic systems. This would form the basis for a new way to compute, understand nature, and analyze human societies.
+As we rely on statistical models to identify structure, do we need a new field where different mental models yield unique structural observations, while ensemble models produce consensus views of ontological structure? We might call this field "perceptual statistics", and would rely on ontological structure to properly quantify systems that would otherwise be difficult to attach numeric or symbolic systems. This would form the basis for a new way to compute, understand nature, and analyze human societies.
 
 #### Difficult to symbolize and represent
-As numbers and operators are symbols, it is worth asking whether some systems are hard to symbolize. If a problem is hard to define (such as wicked problems), then they may also be difficult to symbolize. A symbol is a compact representation of some feature or process, and we can turn to cybernetics to understand why some systems are easier to reduce to a symbolic representation than others.  
+Aside from complex systems that are hard to quantify, there are also classes of complex systems that are inherently difficult to symbolize. In the context of a complex system, symbols include mathematical objects such as numbers, operators, and representations of selected features and processes. Symbols provide a path to both theory and measurement. For example, identifiable structure or discreteness can be characterized with a symbol, or symbolized. What we might refer to as symbolization is the description of a complex system as a series of symbols. The quest for symbolization is embodied in Newell and Simon’s Physical Symbol System Hypothesis [7], but as application to the real-world has shown, a symbolization strategy is quite unsuitable for many problem domains.
 
-If "a theory is a metaphor between model and data", as Julian Jaynes said [7], then we must consider the metaphors that we use in creating theories and intepreting data. These metaphors might be intentionally selected because they provide easy access to the language of quantificaiton. In the next section, we will discuss problems for which there is no physical analogue. The idea that data needs to interface with such a model is largely an illusion. In addition, there are systems for which existing models and metaphors extending them to data are simply insufficient. In such cases, even physical metaphors are insufficient to the task of making quantification easier.  
+Nevertheless, symbolization is often a necessary step in the creation of models, theories, programming abstractions, and data structures. One obstacle to symbolization is the ability to use metaphors to casually describe the dynamics of a complex system. Julian Jaynes [8] considered theories to be metaphors between model and data. As such, we must consider the metaphors we use to create theories and interpret data. These metaphors might also be intentionally selected because they provide easy access to the language of quantification. In the next section, we will discuss problems for which there is no physical analogue. The idea that data needs to interface with such a model is largely an illusion. In addition, there are systems for which existing models and metaphors extending them to data are simply insufficient. In such cases, even physical metaphors are insufficient to the task of making quantification easier.  
 
-One class of such problems are known as "wicked" problems [8]. Wicked problems incorporate many different types of system, but have been characterized by large social problems such as a planned economy, social change and persistence, or complex systems with many parallel components. A particular feature of wicked problems is that some of the variables and phenomena needed to characterize the problem are not predictable. While it is tempting to suggest that these phenomena are simply exist in a chaotic regime, it is more likely that unpredictable components are variables that produce unstructured data in a system that exhibits structure.  
+Another stumbling block to symbolization are so-called "wicked" problems [9]. Wicked problems incorporate many different types of system, but have been characterized by large social problems such as a planned economy, social change and persistence, or complex systems with many parallel components. A particular feature of wicked problems is that some of the variables and phenomena needed to characterize the problem are not predictable. While it is tempting to suggest that these phenomena simply exist in a chaotic regime, it is more likely that unpredictable components are variables that produce unstructured data in a system that exhibits structure.  
 
 #### Un-physical problems (no physical analogue)  
+We often use physical analogues to address complex biological and social problems. Examples include the brain and neurological function as a "computer", "velocity" of spent money, "jet engines" that propel organisms through water or air, or "gas" models of social interactions. But how physical are these systems, and do analogues provide insight? Even if the physical analogy does hold, to what extent is the physical analogue only modeling or speaking to a fraction of the structure in our system relative to a holistic view? This was discussed earlier in the difficult to quantify section. Un-physical problems pose a unique challenge in this respect: the structure is not merely transient, but reliant on a global view in space and time. Therefore, a subset of un-physical problems are those that cannot be abstracted easily into computational form.
 
-We often use physical analogues to address complex biological and social problems. Examples include the brain and neurological function as a "computer", "velocity" of spent money, "jet engines" that propel organisms through water or air, or "gas" models of social interactions. But how physical are these systems, and do analogues provide insight? Even if the physical analogy does hold, to what extent is the physical analogue only modeling or speaking to a fraction of the structure in our system relative to a holistic view? This was discussed earlier in the difficult of quantify section. Un-physical problems pose a unique challenge in this respect: the structure is not merely transient, but reliant on a global view in space and time. Therefore, a subset of un-physical problems are those that cannot be abstracted easily into computational form.
+Returning to the issue of physical versus non-physical systems, we can compare phenomena that are psychophysical versus phenomena that are metaphysical. Psychophysical phenomena are interactions between the human perceptual system and regularities that result from physical features of the stimulus. By contrast, metaphysical phenomena are those which cannot be mapped to physical properties such as light or surfaces. In both cases, a physical analogue would require at least an intermediate layer to translate the physical process to another type of process. This secondary process might be semi-physical (such as a set of pathways in the brain) or not at all physical (philosophical narrative). In any case, the broad application of physical metaphors offer a sometimes suboptimal series of trade-offs between quantification, symbolization, and understandability. 
 
-Returning to the issue of physical versus non-physical systems, we can contrast phenomena that are psychophysical versus phenomena that are metaphysical. Psychophysical phenomena are interactions between the human perceptual system and regularities that result from physical features of the stimulus. By contrast, metaphysical phenomena are those which cannot be mapped to physical properties such as light or surfaces.  
+It may also be that such metaphors rest on systems that are easy to quantify and symbolize. Systems with discrete parts, consistent outputs, and deterministic behaviors fall into such a category. Returning to our discussion on symbolization, metaphors that are easy to symbolize but otherwise poorly descriptive of process complexity are actually preferable. Yet this is done at significant cost to realism. In the realm of Diatom biomechanics (multicellular motility), we have witnessed a history of diverse metaphors [10] being used to describe organism-level movement and structural function. Potential mechanisms include jet engines, rowing ships, bubble-driven movement, treadmilling, compressed air-driven movement, and explosive propulsion. While not all of them are equally plausible, the diverse interpretations of a singular biophysical phenomenon is evidence that even something that is straightforwardly physical (diatom motility) is actually quite hard to symbolize.
 
-It may also be that such metaphors rest on systems that are easy to quantify and symbolize. Systems with discrete parts, consistent outputs, and deterministic behaviors fall into such a category.
-
-### Questions that result from these issues  
-There are three focused research questions we can ask with respect to establishing a set of investigative approaches. These involve the potential for new models, logical frameworks, and replication of experimental methods. They are as follows:
+### Open Questions to Address    
+There are three focused research questions we can ask with respect to establishing a set of investigative approaches that transcend the limitations of quantification, symbolization, and physical analogy. These involve the potential for new models, logical frameworks, and replication of experimental methods. They are as follows:
 
 How can we represent such problems both mathematically and computationally? Is there a type of logical framework that might supercede conventional mathematics in these cases?
 
-Do we need a new model for computation (continuous, stochastic), or can our current models sufficiently account for difficult-to-characterize or even wicked problems?  
+Do we need new models for computation allied with continuous and stochastic methods, or can our current models sufficiently account for difficult-to-characterize or even wicked problems?  
 
 Is there a connection with the ability to replicate experiments? In the case of experiments that are found not to replicate, is there a methodological problem, or is it a matter of not using the proper representation (what are key variables, or what is key mode of inquiry)? 
 
-### Is a paradigm for measurement and computation the answer? 
->>>>> A new paradigm: physical cognition. Given this discussion, we might ask whether a new paradigm is needed. Indeed, while a new computational and quantitative paradigm may be hard to reconcile with traditional mathematics and computer science, it may help us overcome some of the limitations of tradition.
+### Is a new paradigm for measurement and computation the answer?
+We can also propose a new paradigm for understanding the empirical and conceptual limitations posed by this essay: physical cognition. Given this discussion, we might ask whether a new paradigm is needed. Indeed, while a new computational and quantitative paradigm may be hard to reconcile with traditional mathematics and computer science, it may help us overcome some of the limitations of tradition.
 
 An outline of four potential approaches are as follows:
 
-1) continuous methods that use the behavior of fluids, biological collectives, or soft materials as inspiration.
-While continuous approximation has become increasing easier with advances in computing technology, this requires an ability to capture the phenomenon of interest using methods that make such systems quantifiable. To bridge this conceptual gap, we can map such systems onto fluids, biological collectives, and soft materials. While these mappings are quasi-quantitative, our mathematical understanding of such systems are a bit more tractable than the alternative.  
+1) continuous methods that use the behavior of fluids, biological collectives, or soft materials as inspiration. While continuous approximation has become increasingly easier with advances in computing technology, this requires an ability to capture the phenomenon of interest using methods that make such systems quantifiable. To bridge this conceptual gap, we can map such systems onto fluids, biological collectives, and soft materials. While these mappings are quasi-quantitative, our mathematical understanding of such systems are a bit more tractable than the alternative.  
 
 [[bio-inspired continuous methods for measuring emergence]]
 
-2) the prediction of intervals that allow us to find patterns in stochastic sequences.
-Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing [9]. Interval and difference computing requires us to define these features in the system of interest. One promising technique is to use the features of natural systems as a tool for computation. Interval computation can be done in this way using neural models [10] and neural-inspired models such as dendritic computing [11].  
+2) the prediction of intervals that allow us to find patterns in stochastic sequences. Another way in which difficult to quantify systems can be turned into mathematical grist is through interval and difference computing [11]. Interval and difference computing requires us to define these features in the system of interest. One promising technique is to use the features of natural systems as a tool for computation. Interval computation can be done in this way using neural models [12] and neural-inspired models such as dendritic computing [13].  
 
 [[diagram of interval discovery here]]
 
-
-3) geometric generativity and isometric networks.
-The construction of nested and overlapping shapes, in addition to isometric networks, can be used to represent sets of relationships that possess non-transitive properties, recursivity, and co-varying higher dimensionality.  
-     
-We will discuss isometric networks first. Isometric networks consist of a series of interconnected isometric shapes. Isometric geometries have been used in art and video game design. Isometric networks are drawn in 2-dimensions, but due to their orientation, project 3-dimensions of information. moreover, due to this projection, the second and third dimensions are entangled, leading to shared variance amongst both dimensions.  
+3) The construction of nested and overlapping shapes, in addition to geometric generativity and isometric networks, can be used to represent sets of relationships that possess non-transitive properties, recursivity, and co-varying higher dimensionality. We will discuss isometric networks first. Isometric networks consist of a series of interconnected isometric shapes. Isometric geometries have been used in art and video game design. Isometric networks are drawn in 2-dimensions, but due to their orientation, project 3-dimensions of information. Due to this projection, the second and third dimensions are entangled, leading to shared variance amongst both dimensions.  
 
 [[diagram of example network here]]
 
-While isometric networks can represent transitive relationships, we can configure such networks (and particularly their growth) in such a way so as to introduce nontransitive elements. Nested and overlapping shapes drawn as a generative landscape might be a way to introduce such properties. Much as injecting stochasticity into boolean models make them more lifelike, so can injecting generativity into simple geometric systems gets us closer to what Douglas Hofstadter refers to as a strange loop.  
+While isometric networks can represent transitive relationships, we can configure such networks (and particularly their growth) in such a way so as to introduce non-transitive elements. Nested and overlapping shapes drawn as a generative landscape might be a way to introduce such properties. Much as injecting stochasticity into boolean models make them more lifelike, so can injecting generativity into simple geometric systems gets us closer to what Douglas Hofstadter refers to as a strange loop [14].  
      
+4) While traditional statistical methods allow us to discover associations, we might want to discover free associations that are harder to define in terms of a feature space. This can be done by considering exotic methods such as vague soft sets [15] and neural associative coding [16]. More generally, we can use fuzzy logic and interval measures [17] to characterize multidimensional space. Such representations allow us to build representations robust to the limitations discussed in this essay, and can also be used to facilitate interval and difference computing.  
 
-4) fuzzy multidimensionality and associative methods.
-While traditional statistical methods allow us to discover associations, we might want to discover free associations that are harder to define in terms of a feature space. This is where we can use fuzzy logic in multidimensional space to help us create intervals which can also be used to facilitate interval and difference computing.  
+## Conclusions
+Returning to the title question of whether a variety of complex problems are un(3) due to a lack of structure or insufficient approaches to hidden structure, the answer is clear. An enhanced ability to identify and characterize such systems allows us to approximate a solution to this type of problem. We have laid out the reasons why such problems are hard-to-represent, open questions that arise from these limitations, and a potential new paradigm for taming the unruliness of un(3) problem domains. Further work involves refining the application of these analytical solutions to a new paradigm.
 
 ### References
 [1] URL: http://www.github.com/balicea
@@ -86,17 +77,29 @@ While traditional statistical methods allow us to discover associations, we migh
 
 [4] Drexler, K.E. (1992). Nanosystems: molecular machinery, manufacturing, and computation. Wiley, New York.
 
-[5] Glick, D., Barth, S., and Macleod, K.F. (2010). Autophagy: cellular and molecular mechanisms. _Journal of Pathology_, 221(1), 3–12.
-doi: 10.1002/path.2697
+[5] Glick, D., Barth, S., and Macleod, K.F. (2010). Autophagy: cellular and molecular mechanisms. Journal of Pathology, 221(1), 3–12. doi:10.1002/path.2697.
 
 [6]  Kauffman, S. (1995). At Home in the Universe: the search for the laws of self-organization and order. Oxford University Press, Oxford, UK.
 
-[7] Jaynes, J. (2000). The Origin of Consciousness in the Breakdown of the Bicameral Mind. Mariner Books.
+[7] Newell, A. and Simon, H.A. (1976). Computer Science as Empirical Inquiry: symbols and search. Communications of the ACM, 19(3), 113–126. doi:10.1145/360018.360022
 
-[8] term originated with C. West Churchman. See also: Brown, V.A., Harris, J.A., and Russell, J.Y.   Tackling Wicked Problems: Through the Transdisciplinary Imagination. Earthscan, London (2010).
+[8] Jaynes, J. (2000). The Origin of Consciousness in the Breakdown of the Bicameral Mind. Mariner Books.
 
-[9] Rokne, J.G. (2001). Interval Arithmetic and Interval Analysis: An Introduction. In "Granular Computing", W. Pedrycz ed., pp. 1-22. Springer, Berlin. 
+[9] term originated with C. West Churchman. See also: Brown, V.A., Harris, J.A., and Russell, J.Y. (2010). Tackling Wicked Problems: Through the Transdisciplinary Imagination. Earthscan, London.
 
-[10] Rose, G.J., Leary, C.J., and Edwards, C.J. (2011). Interval-counting Neurons in the Anuran Auditory Midbrain: Factors Underlying Diversity of Interval Tuning. _Journal of Computation and Physiology A_, 197(1), 97-108.
+[10] Gordon, R. (2020). The whimsical history of proposed motors for diatom motility. In: Diatom
+Gliding Motility [DIGM, Volume in the series: Diatoms: Biology & Applications, series editors: Richard Gordon & Joseph Seckbach]. S.A. Cohn, K.M. Manoylov and R. Gordon, (eds.) Wiley-Scrivener, Beverly, MA, USA: Submitted.
 
-[11] Mel, B.W. (1994). Information Processing in Dendritic Trees. _Neural Computation_, 6(6), 1031-1085. doi:10.1162/neco.1994.6.6.1031
+[11] Rokne, J.G. (2001). Interval Arithmetic and Interval Analysis: An Introduction. In "Granular Computing", W. Pedrycz ed., pp. 1-22. Springer, Berlin. 
+
+[12] Rose, G.J., Leary, C.J., and Edwards, C.J. (2011). Interval-counting Neurons in the Anuran Auditory Midbrain: Factors Underlying Diversity of Interval Tuning. _Journal of Computation and Physiology A_, 197(1), 97-108.
+
+[13] Mel, B.W. (1994). Information Processing in Dendritic Trees. _Neural Computation_, 6(6), 1031-1085. doi:10.1162/neco.1994.6.6.1031.
+
+[14] Hofstadter, D. (2007). I Am A Strange Loop. Basic Books, New York.
+
+[15] Xu, W., Ma, J., Wang, S., and Hao, G. (2010). Vague soft sets and their properties. _Computers & Mathematics with Applications_, 59(2), 787-794.
+
+[16] Palm, G. (2013). Neural associative memories and sparse coding. _Neural Networks_, 37, 165-171.
+
+[17] Castillo, O. and Melin, P. (2014). A review on interval type-2 fuzzy logic applications in intelligent control. _Information Sciences_, 279, 615-631.
