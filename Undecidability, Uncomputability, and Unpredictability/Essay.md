@@ -1,5 +1,5 @@
 <p align="center">
-## The illusion of structure or insufficiency of approach? the un(3) of unruly problems  
+          <b>The illusion of structure or insufficiency of approach? the un(3) of unruly problems</b>
 Bradly Alicea, Jesse Parent, and Ankit Gupta
 </p>
 
